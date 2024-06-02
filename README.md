@@ -1,4 +1,9 @@
 # DCIT 202 ASSIGNMENT #
+Name  : Gbadago Frank Mawuli
+ID    : 112323224
+
+
+
 
 This is a small React Native mobile application that has a search bar, title bar, and a vertical and horizontal list of items.
 
