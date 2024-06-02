@@ -3,6 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import Bar from './Components/Bar';
 import Catalog from './Components/Catalog';
 import Search from './Components/Search';
+import List from './Components/List';
 
 export default function App() {
   return (
@@ -10,6 +11,7 @@ export default function App() {
       <Bar/>
       <Search/>
       <Catalog/>
+      <List/>
       
       
       <StatusBar style="auto" />
@@ -20,7 +22,6 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
     marginTop: 20
     
   },
